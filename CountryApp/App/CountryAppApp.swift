@@ -10,8 +10,8 @@ import SwiftUI
 @main
 struct CountryAppApp: App {
     var body: some Scene {
-        WindowGroup {
-            ContentView()
+            WindowGroup {
+                CountryListView()
+            }
         }
-    }
 }
