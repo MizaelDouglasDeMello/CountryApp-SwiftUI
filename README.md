@@ -7,6 +7,10 @@
 
 Este aplicativo iOS, construído com **SwiftUI**, busca e exibe informações sobre países da API REST Countries. Os usuários podem navegar por uma lista de países, pesquisar por países específicos e visualizar informações detalhadas sobre cada país, incluindo sua bandeira, brasão, capital, região, população e muito mais.
 
+
+https://github.com/user-attachments/assets/75812005-dfff-4a4f-aef7-79d168b0c00a
+
+
 ## Funcionalidades
 
 *   **Lista de Países:** Exibe uma lista de países obtidos da API REST Countries.
